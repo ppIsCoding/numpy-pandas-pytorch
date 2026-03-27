@@ -1,0 +1,41 @@
+# 虚拟环境
+venv/
+env/
+*.venv/
+
+# IDE 相关
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
+*.suo
+
+# 临时文件
+*.tmp
+*.temp
+
+# 模型文件
+*.pth
+*.pt
+*.ckpt
+
+# 数据集
+*/dataset/
+
+# 日志文件
+*/logs*
+
+# 图片文件（如果不需要）
+*.png
+*.jpg
+*.jpeg
