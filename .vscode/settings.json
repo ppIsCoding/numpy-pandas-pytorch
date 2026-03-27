@@ -1,0 +1,7 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.packageIndexDepths": [
+        {"name": "torch", "depth": 3},
+        {"name": "torchvision", "depth": 3}
+    ]
+}
